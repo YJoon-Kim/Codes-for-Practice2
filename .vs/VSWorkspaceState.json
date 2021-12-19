@@ -1,7 +1,8 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\Project1_newstart"
   ],
-  "SelectedNode": "\\.gitattributes",
+  "SelectedNode": "\\Project1_newstart\\Project1_newstart.vcxproj.filters",
   "PreviewInSolutionExplorer": false
 }
