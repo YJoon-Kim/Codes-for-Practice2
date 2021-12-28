@@ -13,10 +13,43 @@
       <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
       <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
     </Filter>
+    <Filter Include="소스 파일\Day_1">
+      <UniqueIdentifier>{069f4f55-0980-443d-b923-79f9d429adbd}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\Day_2">
+      <UniqueIdentifier>{65fdba99-0f27-4fa7-8543-2134215862e2}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="source_1.c">
-      <Filter>소스 파일</Filter>
+    <ClCompile Include="국영수성적처리.c">
+      <Filter>소스 파일\Day_1</Filter>
+    </ClCompile>
+    <ClCompile Include="정수나누기정수_정수나누기실수.c">
+      <Filter>소스 파일\Day_2</Filter>
+    </ClCompile>
+    <ClCompile Include="리눅스로컴파일.c">
+      <Filter>소스 파일\Day_1</Filter>
+    </ClCompile>
+    <ClCompile Include="floatdouble차이.c">
+      <Filter>소스 파일\Day_1</Filter>
+    </ClCompile>
+    <ClCompile Include="입출력연습.c">
+      <Filter>소스 파일\Day_1</Filter>
+    </ClCompile>
+    <ClCompile Include="VS컴파일연습.c">
+      <Filter>소스 파일\Day_1</Filter>
+    </ClCompile>
+    <ClCompile Include="입출력입력복습.c">
+      <Filter>소스 파일\Day_2</Filter>
+    </ClCompile>
+    <ClCompile Include="근의공식계산.c">
+      <Filter>소스 파일\Day_2</Filter>
+    </ClCompile>
+    <ClCompile Include="ascii_code확인.c">
+      <Filter>소스 파일\Day_2</Filter>
+    </ClCompile>
+    <ClCompile Include="년월일출력연습.c">
+      <Filter>소스 파일\Day_2</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>
