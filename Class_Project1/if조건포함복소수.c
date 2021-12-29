@@ -15,7 +15,9 @@ void main3_6()
 		Plusreal = Areal + Breal;
 		Plusimg = Aimg + Bimg;
 		printf("(%10.3f + %10.3fi ) + (%10.3f + %10.3fi ) = (%10.3f + %10.3fi )\n",
-			Areal, Aimg, Breal, Bimg, Plusreal, Plusimg);
+			Areal,
+			Aimg, Breal, 
+			Bimg, Plusreal, Plusimg);
 	}
 
 	if (op == '-')
