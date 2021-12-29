@@ -1,6 +1,6 @@
 #include <stdio.h>
 
-char main() // 211228 // 2_5
+char main2_5() // 211228 // 2_5
 {
 	char c1, c2, c3, c4, c5, c6;
 	int year, month, date;

@@ -19,6 +19,9 @@
     <Filter Include="소스 파일\Day_2">
       <UniqueIdentifier>{65fdba99-0f27-4fa7-8543-2134215862e2}</UniqueIdentifier>
     </Filter>
+    <Filter Include="소스 파일\Day_3">
+      <UniqueIdentifier>{bdc5e201-8fe8-42dd-a254-1581eb174192}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="국영수성적처리.c">
@@ -50,6 +53,24 @@
     </ClCompile>
     <ClCompile Include="년월일출력연습.c">
       <Filter>소스 파일\Day_2</Filter>
+    </ClCompile>
+    <ClCompile Include="scanf복습.c">
+      <Filter>소스 파일\Day_3</Filter>
+    </ClCompile>
+    <ClCompile Include="asciicode복습.c">
+      <Filter>소스 파일\Day_3</Filter>
+    </ClCompile>
+    <ClCompile Include="증가감소연산.c">
+      <Filter>소스 파일\Day_3</Filter>
+    </ClCompile>
+    <ClCompile Include="if문출력확인.c">
+      <Filter>소스 파일\Day_3</Filter>
+    </ClCompile>
+    <ClCompile Include="섭씨화씨변환코드.c">
+      <Filter>소스 파일\Day_3</Filter>
+    </ClCompile>
+    <ClCompile Include="if조건포함복소수.c">
+      <Filter>소스 파일\Day_3</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>
