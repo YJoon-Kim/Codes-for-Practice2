@@ -81,5 +81,20 @@
     <ClCompile Include="if조건포함복소수.c">
       <Filter>소스 파일\Day_4</Filter>
     </ClCompile>
+    <ClCompile Include="sin_tan_cos함수.c">
+      <Filter>소스 파일\Day_4</Filter>
+    </ClCompile>
+    <ClCompile Include="드모르간법칙.c">
+      <Filter>소스 파일\Day_4</Filter>
+    </ClCompile>
+    <ClCompile Include="키몸무게.c">
+      <Filter>소스 파일\Day_4</Filter>
+    </ClCompile>
+    <ClCompile Include="군대가말아.c">
+      <Filter>소스 파일\Day_4</Filter>
+    </ClCompile>
+    <ClCompile Include="switch응용.c">
+      <Filter>소스 파일\Day_4</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

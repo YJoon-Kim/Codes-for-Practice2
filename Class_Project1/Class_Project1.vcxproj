@@ -145,9 +145,13 @@
     <ClCompile Include="if문복습.c" />
     <ClCompile Include="if문출력확인.c" />
     <ClCompile Include="if조건포함복소수.c" />
+    <ClCompile Include="sin_tan_cos함수.c" />
+    <ClCompile Include="switch응용.c" />
+    <ClCompile Include="군대가말아.c" />
     <ClCompile Include="근의공식계산.c" />
     <ClCompile Include="년월일출력연습.c" />
     <ClCompile Include="scanf복습.c" />
+    <ClCompile Include="드모르간법칙.c" />
     <ClCompile Include="아스키복습2.c" />
     <ClCompile Include="섭씨화씨변환코드.c" />
     <ClCompile Include="증가감소연산.c" />
@@ -157,6 +161,7 @@
     <ClCompile Include="리눅스로컴파일.c" />
     <ClCompile Include="입출력연습.c" />
     <ClCompile Include="입출력입력복습.c" />
+    <ClCompile Include="키몸무게.c" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
