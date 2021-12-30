@@ -142,11 +142,13 @@
     <ClCompile Include="asciicode복습.c" />
     <ClCompile Include="ascii_code확인.c" />
     <ClCompile Include="floatdouble차이.c" />
+    <ClCompile Include="if문복습.c" />
     <ClCompile Include="if문출력확인.c" />
     <ClCompile Include="if조건포함복소수.c" />
     <ClCompile Include="근의공식계산.c" />
     <ClCompile Include="년월일출력연습.c" />
     <ClCompile Include="scanf복습.c" />
+    <ClCompile Include="아스키복습2.c" />
     <ClCompile Include="섭씨화씨변환코드.c" />
     <ClCompile Include="증가감소연산.c" />
     <ClCompile Include="정수나누기정수_정수나누기실수.c" />
