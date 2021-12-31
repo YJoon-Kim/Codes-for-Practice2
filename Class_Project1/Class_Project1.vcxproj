@@ -139,16 +139,28 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="거꾸99단만들기.c" />
+    <ClCompile Include="9단만들기.c" />
     <ClCompile Include="asciicode복습.c" />
     <ClCompile Include="ascii_code확인.c" />
     <ClCompile Include="floatdouble차이.c" />
+    <ClCompile Include="for로factorial.c" />
+    <ClCompile Include="for로fact해설.c" />
+    <ClCompile Include="for반복문응용.c" />
+    <ClCompile Include="for반복문응용2.c" />
+    <ClCompile Include="while반복문응용.c" />
     <ClCompile Include="if문복습.c" />
     <ClCompile Include="if문출력확인.c" />
     <ClCompile Include="if조건포함복소수.c" />
     <ClCompile Include="sin_tan_cos함수.c" />
     <ClCompile Include="switch응용.c" />
+    <ClCompile Include="switch응용2.c" />
+    <ClCompile Include="switch응용3.c" />
     <ClCompile Include="군대가말아.c" />
     <ClCompile Include="근의공식계산.c" />
+    <ClCompile Include="기출문제1.c" />
+    <ClCompile Include="기출문제2.c" />
+    <ClCompile Include="기출문제3.c" />
     <ClCompile Include="년월일출력연습.c" />
     <ClCompile Include="scanf복습.c" />
     <ClCompile Include="드모르간법칙.c" />

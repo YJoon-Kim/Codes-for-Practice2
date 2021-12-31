@@ -2,7 +2,7 @@
 
 // switch 연습 battle 모드
 
-int main() // 4_8
+int main4_8() // 4_8
 {
 	char in;
 

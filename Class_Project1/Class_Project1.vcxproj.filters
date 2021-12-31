@@ -25,6 +25,9 @@
     <Filter Include="소스 파일\Day_4">
       <UniqueIdentifier>{6d2dd184-e0d3-4442-9d09-26f3fc8d9f52}</UniqueIdentifier>
     </Filter>
+    <Filter Include="소스 파일\Day_5">
+      <UniqueIdentifier>{069ba67b-aebc-4426-a71a-5563b57c91a6}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="국영수성적처리.c">
@@ -95,6 +98,42 @@
     </ClCompile>
     <ClCompile Include="switch응용.c">
       <Filter>소스 파일\Day_4</Filter>
+    </ClCompile>
+    <ClCompile Include="switch응용2.c">
+      <Filter>소스 파일\Day_5</Filter>
+    </ClCompile>
+    <ClCompile Include="switch응용3.c">
+      <Filter>소스 파일\Day_5</Filter>
+    </ClCompile>
+    <ClCompile Include="while반복문응용.c">
+      <Filter>소스 파일\Day_5</Filter>
+    </ClCompile>
+    <ClCompile Include="for반복문응용.c">
+      <Filter>소스 파일\Day_5</Filter>
+    </ClCompile>
+    <ClCompile Include="for반복문응용2.c">
+      <Filter>소스 파일\Day_5</Filter>
+    </ClCompile>
+    <ClCompile Include="for로factorial.c">
+      <Filter>소스 파일\Day_5</Filter>
+    </ClCompile>
+    <ClCompile Include="for로fact해설.c">
+      <Filter>소스 파일\Day_5</Filter>
+    </ClCompile>
+    <ClCompile Include="9단만들기.c">
+      <Filter>소스 파일\Day_5</Filter>
+    </ClCompile>
+    <ClCompile Include="거꾸99단만들기.c">
+      <Filter>소스 파일\Day_5</Filter>
+    </ClCompile>
+    <ClCompile Include="기출문제1.c">
+      <Filter>소스 파일\Day_5</Filter>
+    </ClCompile>
+    <ClCompile Include="기출문제2.c">
+      <Filter>소스 파일\Day_5</Filter>
+    </ClCompile>
+    <ClCompile Include="기출문제3.c">
+      <Filter>소스 파일\Day_5</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>
