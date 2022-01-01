@@ -15,13 +15,7 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="gooood.c">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="great.c">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="따배씨1.c">
+    <ClCompile Include="무제.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
   </ItemGroup>
