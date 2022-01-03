@@ -139,6 +139,9 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="cos()구현.c" />
+    <ClCompile Include="e^x계산.c" />
+    <ClCompile Include="sin()구현.c" />
     <ClCompile Include="거꾸99단만들기.c" />
     <ClCompile Include="9단만들기.c" />
     <ClCompile Include="asciicode복습.c" />
@@ -156,6 +159,7 @@
     <ClCompile Include="switch응용.c" />
     <ClCompile Include="switch응용2.c" />
     <ClCompile Include="switch응용3.c" />
+    <ClCompile Include="거꾸로기출문제.c" />
     <ClCompile Include="군대가말아.c" />
     <ClCompile Include="근의공식계산.c" />
     <ClCompile Include="기출문제1.c" />
@@ -163,7 +167,13 @@
     <ClCompile Include="기출문제3.c" />
     <ClCompile Include="년월일출력연습.c" />
     <ClCompile Include="scanf복습.c" />
+    <ClCompile Include="대문자를소문자로.c" />
     <ClCompile Include="드모르간법칙.c" />
+    <ClCompile Include="for문순서복습.c" />
+    <ClCompile Include="디버깅연습.c" />
+    <ClCompile Include="소문자를대문자로.c" />
+    <ClCompile Include="여러함수같이.c" />
+    <ClCompile Include="절대값함수만들기.c" />
     <ClCompile Include="아스키복습2.c" />
     <ClCompile Include="섭씨화씨변환코드.c" />
     <ClCompile Include="증가감소연산.c" />

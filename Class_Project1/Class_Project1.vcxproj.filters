@@ -28,6 +28,9 @@
     <Filter Include="소스 파일\Day_5">
       <UniqueIdentifier>{069ba67b-aebc-4426-a71a-5563b57c91a6}</UniqueIdentifier>
     </Filter>
+    <Filter Include="소스 파일\Day_6">
+      <UniqueIdentifier>{90befcbd-26df-4f54-ac9d-d8d971064032}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="국영수성적처리.c">
@@ -134,6 +137,36 @@
     </ClCompile>
     <ClCompile Include="기출문제3.c">
       <Filter>소스 파일\Day_5</Filter>
+    </ClCompile>
+    <ClCompile Include="거꾸로기출문제.c">
+      <Filter>소스 파일\Day_6</Filter>
+    </ClCompile>
+    <ClCompile Include="for문순서복습.c">
+      <Filter>소스 파일\Day_6</Filter>
+    </ClCompile>
+    <ClCompile Include="디버깅연습.c">
+      <Filter>소스 파일\Day_6</Filter>
+    </ClCompile>
+    <ClCompile Include="e^x계산.c">
+      <Filter>소스 파일\Day_6</Filter>
+    </ClCompile>
+    <ClCompile Include="cos()구현.c">
+      <Filter>소스 파일\Day_6</Filter>
+    </ClCompile>
+    <ClCompile Include="sin()구현.c">
+      <Filter>소스 파일\Day_6</Filter>
+    </ClCompile>
+    <ClCompile Include="절대값함수만들기.c">
+      <Filter>소스 파일\Day_6</Filter>
+    </ClCompile>
+    <ClCompile Include="여러함수같이.c">
+      <Filter>소스 파일\Day_6</Filter>
+    </ClCompile>
+    <ClCompile Include="소문자를대문자로.c">
+      <Filter>소스 파일\Day_6</Filter>
+    </ClCompile>
+    <ClCompile Include="대문자를소문자로.c">
+      <Filter>소스 파일\Day_6</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>
