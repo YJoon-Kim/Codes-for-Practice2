@@ -31,6 +31,9 @@
     <Filter Include="소스 파일\Day_6">
       <UniqueIdentifier>{90befcbd-26df-4f54-ac9d-d8d971064032}</UniqueIdentifier>
     </Filter>
+    <Filter Include="소스 파일\Day_7">
+      <UniqueIdentifier>{7c279085-b9d5-43d7-827b-c65425739253}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="국영수성적처리.c">
@@ -167,6 +170,36 @@
     </ClCompile>
     <ClCompile Include="대문자를소문자로.c">
       <Filter>소스 파일\Day_6</Filter>
+    </ClCompile>
+    <ClCompile Include="함수와주소복습.c">
+      <Filter>소스 파일\Day_7</Filter>
+    </ClCompile>
+    <ClCompile Include="쁠쁠로컬사라짐.c">
+      <Filter>소스 파일\Day_7</Filter>
+    </ClCompile>
+    <ClCompile Include="전역변수응용.c">
+      <Filter>소스 파일\Day_7</Filter>
+    </ClCompile>
+    <ClCompile Include="register사용하면scanf망함.c">
+      <Filter>소스 파일\Day_7</Filter>
+    </ClCompile>
+    <ClCompile Include="local_global_변수기출.c">
+      <Filter>소스 파일\Day_7</Filter>
+    </ClCompile>
+    <ClCompile Include="재귀함수factorial.c">
+      <Filter>소스 파일\Day_7</Filter>
+    </ClCompile>
+    <ClCompile Include="재귀함수series.c">
+      <Filter>소스 파일\Day_7</Filter>
+    </ClCompile>
+    <ClCompile Include="static변수응용.c">
+      <Filter>소스 파일\Day_7</Filter>
+    </ClCompile>
+    <ClCompile Include="array벡터연산.c">
+      <Filter>소스 파일\Day_7</Filter>
+    </ClCompile>
+    <ClCompile Include="array단위벡터만들기.c">
+      <Filter>소스 파일\Day_7</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>

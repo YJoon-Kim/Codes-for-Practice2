@@ -139,8 +139,11 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="array단위벡터만들기.c" />
     <ClCompile Include="cos()구현.c" />
     <ClCompile Include="e^x계산.c" />
+    <ClCompile Include="local_global_변수기출.c" />
+    <ClCompile Include="register사용하면scanf망함.c" />
     <ClCompile Include="sin()구현.c" />
     <ClCompile Include="거꾸99단만들기.c" />
     <ClCompile Include="9단만들기.c" />
@@ -171,6 +174,13 @@
     <ClCompile Include="드모르간법칙.c" />
     <ClCompile Include="for문순서복습.c" />
     <ClCompile Include="디버깅연습.c" />
+    <ClCompile Include="array벡터연산.c" />
+    <ClCompile Include="쁠쁠로컬사라짐.c" />
+    <ClCompile Include="static변수응용.c" />
+    <ClCompile Include="재귀함수factorial.c" />
+    <ClCompile Include="재귀함수series.c" />
+    <ClCompile Include="전역변수응용.c" />
+    <ClCompile Include="함수와주소복습.c" />
     <ClCompile Include="소문자를대문자로.c" />
     <ClCompile Include="여러함수같이.c" />
     <ClCompile Include="절대값함수만들기.c" />
