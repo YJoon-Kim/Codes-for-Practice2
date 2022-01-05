@@ -29,7 +29,7 @@ int funcCallAfter(int n)
 int myfact(int n)
 {
 	printf("n=%d ! 계산하자고 함 \n", n);
-	if (conditionCheck(0, n) && n <= 0) return 1;
+	if (conditionCheck_8_2(0, n) && n <= 0) return 1;
 	return (funcCall(n) * n * myfact(n - 1) * funcCallAfter(n));
 }
 
