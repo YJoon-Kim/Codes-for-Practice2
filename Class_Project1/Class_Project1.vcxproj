@@ -177,7 +177,8 @@
     <ClCompile Include="디버깅연습.c" />
     <ClCompile Include="array벡터연산.c" />
     <ClCompile Include="array포인터복습.c" />
-    <ClCompile Include="문자열복사1.c" />
+    <ClCompile Include="문자열개수세기.c" />
+    <ClCompile Include="문자열마지막문자찾기.c" />
     <ClCompile Include="문자열초하수.c" />
     <ClCompile Include="문자열특징1.c" />
     <ClCompile Include="쁠쁠로컬사라짐.c" />

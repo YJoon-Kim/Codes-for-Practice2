@@ -216,7 +216,10 @@
     <ClCompile Include="문자열초하수.c">
       <Filter>소스 파일\Day_8</Filter>
     </ClCompile>
-    <ClCompile Include="문자열복사1.c">
+    <ClCompile Include="문자열개수세기.c">
+      <Filter>소스 파일\Day_8</Filter>
+    </ClCompile>
+    <ClCompile Include="문자열마지막문자찾기.c">
       <Filter>소스 파일\Day_8</Filter>
     </ClCompile>
   </ItemGroup>
