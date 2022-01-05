@@ -34,6 +34,9 @@
     <Filter Include="소스 파일\Day_7">
       <UniqueIdentifier>{7c279085-b9d5-43d7-827b-c65425739253}</UniqueIdentifier>
     </Filter>
+    <Filter Include="소스 파일\Day_8">
+      <UniqueIdentifier>{4e8116b8-841f-4c66-8cd6-d826b7b6cedc}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="국영수성적처리.c">
@@ -200,6 +203,21 @@
     </ClCompile>
     <ClCompile Include="array단위벡터만들기.c">
       <Filter>소스 파일\Day_7</Filter>
+    </ClCompile>
+    <ClCompile Include="array포인터복습.c">
+      <Filter>소스 파일\Day_8</Filter>
+    </ClCompile>
+    <ClCompile Include="factorial재귀함수.c">
+      <Filter>소스 파일\Day_8</Filter>
+    </ClCompile>
+    <ClCompile Include="문자열특징1.c">
+      <Filter>소스 파일\Day_8</Filter>
+    </ClCompile>
+    <ClCompile Include="문자열초하수.c">
+      <Filter>소스 파일\Day_8</Filter>
+    </ClCompile>
+    <ClCompile Include="문자열복사1.c">
+      <Filter>소스 파일\Day_8</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>

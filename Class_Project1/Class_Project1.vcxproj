@@ -142,6 +142,7 @@
     <ClCompile Include="array단위벡터만들기.c" />
     <ClCompile Include="cos()구현.c" />
     <ClCompile Include="e^x계산.c" />
+    <ClCompile Include="factorial재귀함수.c" />
     <ClCompile Include="local_global_변수기출.c" />
     <ClCompile Include="register사용하면scanf망함.c" />
     <ClCompile Include="sin()구현.c" />
@@ -175,6 +176,10 @@
     <ClCompile Include="for문순서복습.c" />
     <ClCompile Include="디버깅연습.c" />
     <ClCompile Include="array벡터연산.c" />
+    <ClCompile Include="array포인터복습.c" />
+    <ClCompile Include="문자열복사1.c" />
+    <ClCompile Include="문자열초하수.c" />
+    <ClCompile Include="문자열특징1.c" />
     <ClCompile Include="쁠쁠로컬사라짐.c" />
     <ClCompile Include="static변수응용.c" />
     <ClCompile Include="재귀함수factorial.c" />
