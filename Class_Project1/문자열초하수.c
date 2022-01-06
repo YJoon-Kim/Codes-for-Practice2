@@ -4,7 +4,7 @@ void mystrcpy_h(char ori[1], char copy[1])
 {
     int i;
     for (i = 0; copy[i] = ori[i]; ++i);
-    // 작동 과정 정리하기
+    // 작동 과정 이해하기
 }
 
 void mystrcpy_m(char ori[1], char copy[1]) // array아님. 사실상 포인터이나 array같이 사용하셔
@@ -27,6 +27,6 @@ char main8_4() // 문자열 스캔 // 8_4
 {
     char ori[] = "ho", copy[5]; //ori copy 는 array임
     //mystrcpy_LOW(ori, copy); // 주소를 복사 시켜 줬음.
-    mystrcpy_m(ori, copy); // 주소를 복사 시켜 줬음.
+    mystrcpy_h(ori, copy); // 주소를 복사 시켜 줬음.
     printf("%s\n", copy); // 프린트는 널나오기전 까지 글자 꾸준히 찍음. 어쩌다가 도중에 널 들어있으면 출력 종료
 }

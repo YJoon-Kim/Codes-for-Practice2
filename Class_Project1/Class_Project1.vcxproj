@@ -146,6 +146,7 @@
     <ClCompile Include="local_global_변수기출.c" />
     <ClCompile Include="register사용하면scanf망함.c" />
     <ClCompile Include="sin()구현.c" />
+    <ClCompile Include="txt파일불러오기.c" />
     <ClCompile Include="거꾸99단만들기.c" />
     <ClCompile Include="9단만들기.c" />
     <ClCompile Include="asciicode복습.c" />
@@ -177,6 +178,10 @@
     <ClCompile Include="디버깅연습.c" />
     <ClCompile Include="array벡터연산.c" />
     <ClCompile Include="array포인터복습.c" />
+    <ClCompile Include="1차원배열뻥튀기복습.c" />
+    <ClCompile Include="재귀함수기출문제2.c" />
+    <ClCompile Include="문자열a뒤에b붙이기.c" />
+    <ClCompile Include="사전식비교.c" />
     <ClCompile Include="문자열개수세기.c" />
     <ClCompile Include="문자열마지막문자찾기.c" />
     <ClCompile Include="문자열초하수.c" />

@@ -37,6 +37,9 @@
     <Filter Include="소스 파일\Day_8">
       <UniqueIdentifier>{4e8116b8-841f-4c66-8cd6-d826b7b6cedc}</UniqueIdentifier>
     </Filter>
+    <Filter Include="소스 파일\Day_9">
+      <UniqueIdentifier>{c62dfb65-0447-40e6-b427-acf0caabd7c6}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="국영수성적처리.c">
@@ -221,6 +224,21 @@
     </ClCompile>
     <ClCompile Include="문자열마지막문자찾기.c">
       <Filter>소스 파일\Day_8</Filter>
+    </ClCompile>
+    <ClCompile Include="1차원배열뻥튀기복습.c">
+      <Filter>소스 파일\Day_9</Filter>
+    </ClCompile>
+    <ClCompile Include="사전식비교.c">
+      <Filter>소스 파일\Day_9</Filter>
+    </ClCompile>
+    <ClCompile Include="문자열a뒤에b붙이기.c">
+      <Filter>소스 파일\Day_9</Filter>
+    </ClCompile>
+    <ClCompile Include="재귀함수기출문제2.c">
+      <Filter>소스 파일\Day_9</Filter>
+    </ClCompile>
+    <ClCompile Include="txt파일불러오기.c">
+      <Filter>소스 파일\Day_9</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>
