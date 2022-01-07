@@ -140,6 +140,7 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClCompile Include="array단위벡터만들기.c" />
+    <ClCompile Include="atio()문자열정수로바꾸기.c" />
     <ClCompile Include="cos()구현.c" />
     <ClCompile Include="e^x계산.c" />
     <ClCompile Include="factorial재귀함수.c" />
@@ -179,6 +180,9 @@
     <ClCompile Include="array벡터연산.c" />
     <ClCompile Include="array포인터복습.c" />
     <ClCompile Include="1차원배열뻥튀기복습.c" />
+    <ClCompile Include="text성적불러오기.c" />
+    <ClCompile Include="포인터시작.c" />
+    <ClCompile Include="한글자출력.c" />
     <ClCompile Include="재귀함수기출문제2.c" />
     <ClCompile Include="문자열a뒤에b붙이기.c" />
     <ClCompile Include="사전식비교.c" />
@@ -205,6 +209,7 @@
     <ClCompile Include="입출력연습.c" />
     <ClCompile Include="입출력입력복습.c" />
     <ClCompile Include="키몸무게.c" />
+    <ClCompile Include="행맨용파일.c" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

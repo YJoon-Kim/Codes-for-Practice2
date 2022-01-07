@@ -10,10 +10,10 @@
 
 // 파일 경로 : C:\Users\User-Pc\source\repos\Codes-for-Practice2\JJJ
 
-void main() // 9_5
+void main9_5() // 9_5
 {
 	FILE* ip, *op; // 사실 파일에 대한 포인터임. FILE 시스템에서 파일용 type. 무조건 외우자. stdio.h안에 정의됨
-	ip = fopen("C:\\Users\\User-Pc\\source\\repos\\Codes-for-Practice2\\JJJ\\input.txt","r"); // "r" : 읽기 / "w" : 쓰기
+	ip = fopen("C:\\Users\\User-Pc\\source\\repos\\Codes-for-Practice2\\JJJ\\input.txt","r"); // "r" : 읽기 / "w" : 쓰기 // 한 글자가 아닐 수도 있기 때문에 "r" 문자열로
 	op = fopen("C:\\Users\\User-Pc\\source\\repos\\Codes-for-Practice2\\JJJ\\output.txt", "w"); // "r" : 읽기 / "w" : 쓰기
 	double tmp, max = -1000000.0; // max는 현재 찾은 최대 값. 초기값으로 컴 최소값 저장.
 

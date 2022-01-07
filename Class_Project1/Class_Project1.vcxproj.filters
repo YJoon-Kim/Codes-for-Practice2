@@ -40,6 +40,9 @@
     <Filter Include="소스 파일\Day_9">
       <UniqueIdentifier>{c62dfb65-0447-40e6-b427-acf0caabd7c6}</UniqueIdentifier>
     </Filter>
+    <Filter Include="소스 파일\Day_10">
+      <UniqueIdentifier>{3cf3c66d-32c6-4251-8ff4-f540ca3f0074}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="국영수성적처리.c">
@@ -239,6 +242,21 @@
     </ClCompile>
     <ClCompile Include="txt파일불러오기.c">
       <Filter>소스 파일\Day_9</Filter>
+    </ClCompile>
+    <ClCompile Include="text성적불러오기.c">
+      <Filter>소스 파일\Day_10</Filter>
+    </ClCompile>
+    <ClCompile Include="행맨용파일.c">
+      <Filter>소스 파일\Day_10</Filter>
+    </ClCompile>
+    <ClCompile Include="atio()문자열정수로바꾸기.c">
+      <Filter>소스 파일\Day_8</Filter>
+    </ClCompile>
+    <ClCompile Include="한글자출력.c">
+      <Filter>소스 파일\Day_10</Filter>
+    </ClCompile>
+    <ClCompile Include="포인터시작.c">
+      <Filter>소스 파일\Day_10</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>
