@@ -139,6 +139,7 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="2차원더하기배열.c" />
     <ClCompile Include="array단위벡터만들기.c" />
     <ClCompile Include="atio()문자열정수로바꾸기.c" />
     <ClCompile Include="cos()구현.c" />

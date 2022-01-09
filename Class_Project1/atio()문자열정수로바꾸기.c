@@ -14,17 +14,11 @@ int myatoi(char str[10])
 }
 
 void main8_7() // 8_7
-
 {
-
 	char str[10];
-
 	scanf("%s", str); // 123 ÀÔ·ÂÇÏ¼Å
-
 	//str[3] = 1; 
-
 	printf("%s -> %d  \n", str, myatoi(str));
-
 }
 
 /* 8 str = "123³Î";

@@ -258,5 +258,8 @@
     <ClCompile Include="포인터시작.c">
       <Filter>소스 파일\Day_10</Filter>
     </ClCompile>
+    <ClCompile Include="2차원더하기배열.c">
+      <Filter>소스 파일\Day_8</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

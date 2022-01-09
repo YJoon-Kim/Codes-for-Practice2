@@ -1,6 +1,6 @@
 #include "stdio.h"
 
-void main() // 10_4
+void main10_4() // 10_4
 {
 	int a = 2022; // 별명 a란 변수 선언. 초기화로 a 집에 2022 넣음.
 	int* pA = &a; //int *pA ; pA는 포인터 변수임 선언. 초기화는 별명a 집의 주소 &a==a1dda9bc로 초기값 넣음.
