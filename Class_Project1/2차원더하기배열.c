@@ -1,6 +1,6 @@
 #include <stdio.h>
 
-void madd(int a[][2], int b[][2], int result[][2])
+void madd(int a[][2], int b[][2], int result[][2]) // 행렬의 열 숫자만 정해주면 자동으로 배열됨. 그것만 지정해주면 됨!
 {
     int i, j;
     for (i = 0; i < 2; ++i)
@@ -8,7 +8,7 @@ void madd(int a[][2], int b[][2], int result[][2])
             result[i][j] = a[i][j] + b[i][j];
 }
 
-void main() // 8_8
+void main8_8() // 8_8
 {
 
     int aa[][2] = { 1, 2, 3, 4 };

@@ -31,4 +31,5 @@ void main9_5() // 9_5
 
 	printf("max=%f\n", max);
 	fprintf(op, "2022 1/6 max=%f\n", max);
+	fclose(ip); fclose(op);
 }

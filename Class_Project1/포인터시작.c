@@ -36,3 +36,6 @@ pA address = a1dda9b0
 */
 
 // char *a = "ABCDE"; 가능하려면 메모리 할당 해야함.
+/*
+input[i] == *(arr+i) --> 시험은 절대 안나옴...
+*/
