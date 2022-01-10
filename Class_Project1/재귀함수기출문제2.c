@@ -11,7 +11,9 @@ int myfact_3(int n)
 	return (p_2('B', n) * n * myfact_3(n-1) * p_2('R', n));
 }
 
-void main9_4() // 9_4
+void main() // 9_4
 {
-	printf('%d\n', myfact_3(3));
+	printf('%d\n', myfact_3(4));
 }
+
+// 여기서 왜 오류..?

@@ -8,7 +8,7 @@
 (4) 아래 main()코딩. 주의사항. 경로에 돈표시 나오면 돈 추가로 넣자.
 */
 
-// 파일 경로 : C:\Users\User-Pc\source\repos\Codes-for-Practice2\JJJ
+// 파일 경로 : C:\\Users\\User-Pc\\source\\repos\\Codes-for-Practice2\\JJJ
 
 void main9_5() // 9_5
 {

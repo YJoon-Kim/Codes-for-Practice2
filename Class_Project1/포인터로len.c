@@ -28,7 +28,7 @@ int mystrlenARR_3(char* s)
 	return i;
 }
 
-void main() // 11_6
+void main11_6() // 11_6
 {
 	char str[10] = "ho";
 	printf("%d\n", mystrlenPointer_2(str));
