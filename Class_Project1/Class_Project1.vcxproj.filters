@@ -312,7 +312,7 @@
     <ClCompile Include="malloc과free.c">
       <Filter>소스 파일\Day_12</Filter>
     </ClCompile>
-    <ClCompile Include="소스.c">
+    <ClCompile Include="cmd로argc_argv.c">
       <Filter>소스 파일\Day_12</Filter>
     </ClCompile>
   </ItemGroup>

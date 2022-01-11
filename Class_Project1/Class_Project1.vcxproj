@@ -190,7 +190,7 @@
     <ClCompile Include="malloc과free.c" />
     <ClCompile Include="문자열마지막출력3ver.c" />
     <ClCompile Include="문자열합치기3ver.c" />
-    <ClCompile Include="소스.c" />
+    <ClCompile Include="cmd로argc_argv.c" />
     <ClCompile Include="포인터복습2.c" />
     <ClCompile Include="배열다시연습.c" />
     <ClCompile Include="문자열특징2.c" />
