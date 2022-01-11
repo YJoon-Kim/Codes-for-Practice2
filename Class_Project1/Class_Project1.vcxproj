@@ -142,8 +142,10 @@
     <ClCompile Include="2차원transpose.c" />
     <ClCompile Include="2차원더하기배열.c" />
     <ClCompile Include="array단위벡터만들기.c" />
+    <ClCompile Include="array와상수문자열차이점.c" />
     <ClCompile Include="atio()문자열정수로바꾸기.c" />
     <ClCompile Include="cos()구현.c" />
+    <ClCompile Include="cos기출문제만들기.c" />
     <ClCompile Include="e^x계산.c" />
     <ClCompile Include="factorial재귀함수.c" />
     <ClCompile Include="local_global_변수기출.c" />
@@ -185,8 +187,14 @@
     <ClCompile Include="1차원배열뻥튀기복습.c" />
     <ClCompile Include="text성적불러오기.c" />
     <ClCompile Include="swap열혈수준.c" />
+    <ClCompile Include="malloc과free.c" />
+    <ClCompile Include="문자열마지막출력3ver.c" />
+    <ClCompile Include="문자열합치기3ver.c" />
+    <ClCompile Include="소스.c" />
+    <ClCompile Include="포인터복습2.c" />
     <ClCompile Include="배열다시연습.c" />
     <ClCompile Include="문자열특징2.c" />
+    <ClCompile Include="2018_1학기_2_재귀함수.c" />
     <ClCompile Include="포인터로cpy.c" />
     <ClCompile Include="포인터로len.c" />
     <ClCompile Include="포인터로str.c" />

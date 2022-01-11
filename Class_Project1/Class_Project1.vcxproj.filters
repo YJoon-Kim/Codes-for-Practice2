@@ -46,6 +46,12 @@
     <Filter Include="소스 파일\Day_11">
       <UniqueIdentifier>{122457b5-4089-4489-b75d-a73897034717}</UniqueIdentifier>
     </Filter>
+    <Filter Include="소스 파일\기출문제풀이">
+      <UniqueIdentifier>{e142cc05-787a-4201-9236-f3eef2ad2a35}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\Day_12">
+      <UniqueIdentifier>{8d9ad6e3-38d9-47c2-a61b-67f13413127f}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="국영수성적처리.c">
@@ -284,6 +290,30 @@
     </ClCompile>
     <ClCompile Include="포인터로len.c">
       <Filter>소스 파일\Day_11</Filter>
+    </ClCompile>
+    <ClCompile Include="포인터복습2.c">
+      <Filter>소스 파일\Day_12</Filter>
+    </ClCompile>
+    <ClCompile Include="2018_1학기_2_재귀함수.c">
+      <Filter>소스 파일\기출문제풀이</Filter>
+    </ClCompile>
+    <ClCompile Include="문자열마지막출력3ver.c">
+      <Filter>소스 파일\Day_12</Filter>
+    </ClCompile>
+    <ClCompile Include="cos기출문제만들기.c">
+      <Filter>소스 파일\기출문제풀이</Filter>
+    </ClCompile>
+    <ClCompile Include="array와상수문자열차이점.c">
+      <Filter>소스 파일\Day_12</Filter>
+    </ClCompile>
+    <ClCompile Include="문자열합치기3ver.c">
+      <Filter>소스 파일\Day_12</Filter>
+    </ClCompile>
+    <ClCompile Include="malloc과free.c">
+      <Filter>소스 파일\Day_12</Filter>
+    </ClCompile>
+    <ClCompile Include="소스.c">
+      <Filter>소스 파일\Day_12</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>
