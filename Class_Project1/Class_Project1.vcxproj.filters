@@ -52,6 +52,9 @@
     <Filter Include="소스 파일\Day_12">
       <UniqueIdentifier>{8d9ad6e3-38d9-47c2-a61b-67f13413127f}</UniqueIdentifier>
     </Filter>
+    <Filter Include="소스 파일\Day_13">
+      <UniqueIdentifier>{f32a34e1-341b-4f8a-b4a0-c9971cc78455}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="국영수성적처리.c">
@@ -314,6 +317,18 @@
     </ClCompile>
     <ClCompile Include="cmd로argc_argv.c">
       <Filter>소스 파일\Day_12</Filter>
+    </ClCompile>
+    <ClCompile Include="간단한지역전역상수응용.c">
+      <Filter>소스 파일\Day_13</Filter>
+    </ClCompile>
+    <ClCompile Include="cmd로복습.c">
+      <Filter>소스 파일\Day_13</Filter>
+    </ClCompile>
+    <ClCompile Include="파일복사프로그램.c">
+      <Filter>소스 파일\Day_13</Filter>
+    </ClCompile>
+    <ClCompile Include="구조체입문_점수평균.c">
+      <Filter>소스 파일\Day_13</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>
