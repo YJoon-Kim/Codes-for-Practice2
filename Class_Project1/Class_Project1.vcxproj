@@ -139,13 +139,16 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="기출1_4_그냥코드확인만.c" />
+    <ClCompile Include="기출1_5_재귀factorial.c" />
+    <ClCompile Include="기출1_6_출력값예측문제.c" />
     <ClCompile Include="2차원transpose.c" />
     <ClCompile Include="2차원더하기배열.c" />
     <ClCompile Include="array단위벡터만들기.c" />
     <ClCompile Include="array와상수문자열차이점.c" />
     <ClCompile Include="atio()문자열정수로바꾸기.c" />
     <ClCompile Include="cos()구현.c" />
-    <ClCompile Include="cos기출문제만들기.c" />
+    <ClCompile Include="기출1_3_cos기출문제만들기.c" />
     <ClCompile Include="e^x계산.c" />
     <ClCompile Include="factorial재귀함수.c" />
     <ClCompile Include="local_global_변수기출.c" />
@@ -174,6 +177,8 @@
     <ClCompile Include="구조체입문_점수평균.c" />
     <ClCompile Include="군대가말아.c" />
     <ClCompile Include="근의공식계산.c" />
+    <ClCompile Include="기출1_7_recursive함수.c" />
+    <ClCompile Include="기출1_8_연산순서.c" />
     <ClCompile Include="기출문제1.c" />
     <ClCompile Include="기출문제2.c" />
     <ClCompile Include="기출문제3.c" />
@@ -198,7 +203,7 @@
     <ClCompile Include="포인터복습2.c" />
     <ClCompile Include="배열다시연습.c" />
     <ClCompile Include="문자열특징2.c" />
-    <ClCompile Include="2018_1학기_2_재귀함수.c" />
+    <ClCompile Include="기출1_1-2_재귀함수.c" />
     <ClCompile Include="포인터로cpy.c" />
     <ClCompile Include="포인터로len.c" />
     <ClCompile Include="포인터로str.c" />

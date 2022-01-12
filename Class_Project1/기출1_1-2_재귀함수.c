@@ -1,6 +1,7 @@
 #include <stdio.h>
 
-// 1. 답 : W
+// 1. 답 : W 
+// 맞음
 
 int sum_of_squares(int n)
 {
@@ -17,8 +18,10 @@ int sum_of_squares2(int n)
 	return i * i + sum_of_squares2(n - 1);
 }
 
-void main18_1_2() // 18_1_2
+void mainG1_2() // 18_1_2
 {
 	printf("%d\n",sum_of_squares(10));
 	printf("%d\n", sum_of_squares2(10));
 }
+
+// 맞음

@@ -46,14 +46,14 @@
     <Filter Include="소스 파일\Day_11">
       <UniqueIdentifier>{122457b5-4089-4489-b75d-a73897034717}</UniqueIdentifier>
     </Filter>
-    <Filter Include="소스 파일\기출문제풀이">
-      <UniqueIdentifier>{e142cc05-787a-4201-9236-f3eef2ad2a35}</UniqueIdentifier>
-    </Filter>
     <Filter Include="소스 파일\Day_12">
       <UniqueIdentifier>{8d9ad6e3-38d9-47c2-a61b-67f13413127f}</UniqueIdentifier>
     </Filter>
     <Filter Include="소스 파일\Day_13">
       <UniqueIdentifier>{f32a34e1-341b-4f8a-b4a0-c9971cc78455}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\기출1">
+      <UniqueIdentifier>{e142cc05-787a-4201-9236-f3eef2ad2a35}</UniqueIdentifier>
     </Filter>
   </ItemGroup>
   <ItemGroup>
@@ -297,14 +297,14 @@
     <ClCompile Include="포인터복습2.c">
       <Filter>소스 파일\Day_12</Filter>
     </ClCompile>
-    <ClCompile Include="2018_1학기_2_재귀함수.c">
-      <Filter>소스 파일\기출문제풀이</Filter>
+    <ClCompile Include="기출1_1-2_재귀함수.c">
+      <Filter>소스 파일\기출1</Filter>
     </ClCompile>
     <ClCompile Include="문자열마지막출력3ver.c">
       <Filter>소스 파일\Day_12</Filter>
     </ClCompile>
-    <ClCompile Include="cos기출문제만들기.c">
-      <Filter>소스 파일\기출문제풀이</Filter>
+    <ClCompile Include="기출1_3_cos기출문제만들기.c">
+      <Filter>소스 파일\기출1</Filter>
     </ClCompile>
     <ClCompile Include="array와상수문자열차이점.c">
       <Filter>소스 파일\Day_12</Filter>
@@ -329,6 +329,21 @@
     </ClCompile>
     <ClCompile Include="구조체입문_점수평균.c">
       <Filter>소스 파일\Day_13</Filter>
+    </ClCompile>
+    <ClCompile Include="기출1_4_그냥코드확인만.c">
+      <Filter>소스 파일\기출1</Filter>
+    </ClCompile>
+    <ClCompile Include="기출1_5_재귀factorial.c">
+      <Filter>소스 파일\기출1</Filter>
+    </ClCompile>
+    <ClCompile Include="기출1_6_출력값예측문제.c">
+      <Filter>소스 파일\기출1</Filter>
+    </ClCompile>
+    <ClCompile Include="기출1_7_recursive함수.c">
+      <Filter>소스 파일\기출1</Filter>
+    </ClCompile>
+    <ClCompile Include="기출1_8_연산순서.c">
+      <Filter>소스 파일\기출1</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>
