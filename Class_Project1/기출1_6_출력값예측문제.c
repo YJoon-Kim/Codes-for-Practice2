@@ -10,7 +10,8 @@ int mainG1_6() {
 			printf("A %d %d %d\n", i, j, k);
 		}
 		printf("B %d %d %d\n", i, j, k);
-		if (k = 1) break; // 여기 k=1는 수행되지 않음!!! 그냥 bool로써만 의미가 있나보다.
+		if (k = 1) break; // 여기 k=1는 수행되지 않음!!! for에서는 k=1 되는데
+		// if 에서는 그냥 bool로써만 의미가 있나보다.
 	}
 }
 

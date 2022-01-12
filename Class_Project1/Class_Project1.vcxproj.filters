@@ -55,6 +55,18 @@
     <Filter Include="소스 파일\기출1">
       <UniqueIdentifier>{e142cc05-787a-4201-9236-f3eef2ad2a35}</UniqueIdentifier>
     </Filter>
+    <Filter Include="소스 파일\기출2">
+      <UniqueIdentifier>{99d358d4-828c-4e2e-ad32-19c5a6ca9e1f}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\기출3">
+      <UniqueIdentifier>{67fa89b1-9aae-404c-bebc-12174a284966}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\기출4">
+      <UniqueIdentifier>{28289ad5-ee10-4dda-83df-420c52b46232}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\기출5">
+      <UniqueIdentifier>{2e3748c9-8858-4034-9012-89f899d63aa2}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="국영수성적처리.c">
@@ -343,6 +355,30 @@
       <Filter>소스 파일\기출1</Filter>
     </ClCompile>
     <ClCompile Include="기출1_8_연산순서.c">
+      <Filter>소스 파일\기출1</Filter>
+    </ClCompile>
+    <ClCompile Include="기출1_9_조건문.c">
+      <Filter>소스 파일\기출1</Filter>
+    </ClCompile>
+    <ClCompile Include="기출1_10_숫자거꾸로함수.c">
+      <Filter>소스 파일\기출1</Filter>
+    </ClCompile>
+    <ClCompile Include="기출1_11_대문자소문자로.c">
+      <Filter>소스 파일\기출1</Filter>
+    </ClCompile>
+    <ClCompile Include="기출5_1_다음은여기.c">
+      <Filter>소스 파일\기출5</Filter>
+    </ClCompile>
+    <ClCompile Include="기출1_12_mceiling함수.c">
+      <Filter>소스 파일\기출1</Filter>
+    </ClCompile>
+    <ClCompile Include="기출1_13_전역변수지역변수문제.c">
+      <Filter>소스 파일\기출1</Filter>
+    </ClCompile>
+    <ClCompile Include="기출1_14(1)-16(3)_컴파일관련문제.c">
+      <Filter>소스 파일\기출1</Filter>
+    </ClCompile>
+    <ClCompile Include="기출1_17(4)_사전비교.c">
       <Filter>소스 파일\기출1</Filter>
     </ClCompile>
   </ItemGroup>

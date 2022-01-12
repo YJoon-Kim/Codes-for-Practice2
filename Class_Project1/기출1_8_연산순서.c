@@ -1,9 +1,9 @@
 #include <stdio.h>
 
-void main()
+void mainG1_8()
 {
 	int a = 2; int b = 3; int c = 7;
-	a = --b + c++;
+	a = --b + c++; // 할당이 되고 c++ 됨...!
 
 	printf("%d %d %d\n", a, b, c);
 }
@@ -20,6 +20,7 @@ void main()
 */
 
 /*
+
 <오답>
  아마도 c++연산이 할당이 되고 되는가부다... 신기하다.
 
