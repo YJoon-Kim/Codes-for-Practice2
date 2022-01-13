@@ -67,6 +67,9 @@
     <Filter Include="소스 파일\기출5">
       <UniqueIdentifier>{2e3748c9-8858-4034-9012-89f899d63aa2}</UniqueIdentifier>
     </Filter>
+    <Filter Include="소스 파일\Day_14">
+      <UniqueIdentifier>{82a2e617-b088-4b66-9512-7e0c5a847e05}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="국영수성적처리.c">
@@ -380,6 +383,21 @@
     </ClCompile>
     <ClCompile Include="기출1_17(4)_사전비교.c">
       <Filter>소스 파일\기출1</Filter>
+    </ClCompile>
+    <ClCompile Include="typedef사용하기.c">
+      <Filter>소스 파일\Day_14</Filter>
+    </ClCompile>
+    <ClCompile Include="시간계산프로그래밍.c">
+      <Filter>소스 파일\Day_14</Filter>
+    </ClCompile>
+    <ClCompile Include="기출2_1_monthday문제.c">
+      <Filter>소스 파일\기출2</Filter>
+    </ClCompile>
+    <ClCompile Include="함수끼리주소차이보여주기.c">
+      <Filter>소스 파일\Day_14</Filter>
+    </ClCompile>
+    <ClCompile Include="시간계산포인터로.c">
+      <Filter>소스 파일\Day_14</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>

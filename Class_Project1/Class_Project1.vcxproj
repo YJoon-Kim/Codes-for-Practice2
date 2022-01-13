@@ -139,6 +139,7 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="typedef사용하기.c" />
     <ClCompile Include="기출1_10_숫자거꾸로함수.c" />
     <ClCompile Include="기출1_11_대문자소문자로.c" />
     <ClCompile Include="기출1_12_mceiling함수.c" />
@@ -186,6 +187,7 @@
     <ClCompile Include="기출1_7_recursive함수.c" />
     <ClCompile Include="기출1_8_연산순서.c" />
     <ClCompile Include="기출1_9_조건문.c" />
+    <ClCompile Include="기출2_1_monthday문제.c" />
     <ClCompile Include="기출5_1_다음은여기.c" />
     <ClCompile Include="기출문제1.c" />
     <ClCompile Include="기출문제2.c" />
@@ -207,6 +209,8 @@
     <ClCompile Include="문자열합치기3ver.c" />
     <ClCompile Include="cmd로argc_argv.c" />
     <ClCompile Include="간단한지역전역상수응용.c" />
+    <ClCompile Include="시간계산포인터로.c" />
+    <ClCompile Include="시간계산프로그래밍.c" />
     <ClCompile Include="파일복사프로그램.c" />
     <ClCompile Include="포인터복습2.c" />
     <ClCompile Include="배열다시연습.c" />
@@ -228,6 +232,7 @@
     <ClCompile Include="재귀함수factorial.c" />
     <ClCompile Include="재귀함수series.c" />
     <ClCompile Include="전역변수응용.c" />
+    <ClCompile Include="함수끼리주소차이보여주기.c" />
     <ClCompile Include="함수와주소복습.c" />
     <ClCompile Include="소문자를대문자로.c" />
     <ClCompile Include="여러함수같이.c" />
