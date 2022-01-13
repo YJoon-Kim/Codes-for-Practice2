@@ -411,7 +411,10 @@
     <ClCompile Include="기출1_21(8)_출력값비교3.c">
       <Filter>소스 파일\기출1</Filter>
     </ClCompile>
-    <ClCompile Include="기출1_22(9)_출력값비교4.c">
+    <ClCompile Include="기출1_22%289%29-24%2811%29_출력값비교4.c">
+      <Filter>소스 파일\기출1</Filter>
+    </ClCompile>
+    <ClCompile Include="기출1_25(12)_argv문제문제.c">
       <Filter>소스 파일\기출1</Filter>
     </ClCompile>
   </ItemGroup>

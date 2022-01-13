@@ -150,7 +150,8 @@
     <ClCompile Include="기출1_19(6)_출력값비교1.c" />
     <ClCompile Include="기출1_20(7)_출력값비교2.c" />
     <ClCompile Include="기출1_21(8)_출력값비교3.c" />
-    <ClCompile Include="기출1_22(9)_출력값비교4.c" />
+    <ClCompile Include="기출1_22%289%29-24%2811%29_출력값비교4.c" />
+    <ClCompile Include="기출1_25(12)_argv문제문제.c" />
     <ClCompile Include="기출1_4_그냥코드확인만.c" />
     <ClCompile Include="기출1_5_재귀factorial.c" />
     <ClCompile Include="기출1_6_출력값예측문제.c" />
