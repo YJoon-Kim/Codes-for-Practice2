@@ -399,5 +399,20 @@
     <ClCompile Include="시간계산포인터로.c">
       <Filter>소스 파일\Day_14</Filter>
     </ClCompile>
+    <ClCompile Include="기출1_18(5)_이름바꾸기.c">
+      <Filter>소스 파일\기출1</Filter>
+    </ClCompile>
+    <ClCompile Include="기출1_19(6)_출력값비교1.c">
+      <Filter>소스 파일\기출1</Filter>
+    </ClCompile>
+    <ClCompile Include="기출1_20(7)_출력값비교2.c">
+      <Filter>소스 파일\기출1</Filter>
+    </ClCompile>
+    <ClCompile Include="기출1_21(8)_출력값비교3.c">
+      <Filter>소스 파일\기출1</Filter>
+    </ClCompile>
+    <ClCompile Include="기출1_22(9)_출력값비교4.c">
+      <Filter>소스 파일\기출1</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
