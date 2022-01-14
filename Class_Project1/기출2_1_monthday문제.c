@@ -7,6 +7,7 @@ void monthday(char* str, int* month, int day[]) // 수업시간에 만든 것이라고 가정
 	*day = atoi(str + 2);
 	str[2] = 0; // *(str + 2) = 0; // 3번째 자리 널로 막기. / '0'이랑 0 이랑은 다름. '0'은 아스키 코드로 ??이고 0은 아스키로 0(NULL)임.
 	*month = atoi(str);
+	// printf("%s\n", str);
 }
 
 int mainG2_1()

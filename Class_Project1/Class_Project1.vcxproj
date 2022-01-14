@@ -139,6 +139,8 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="C015042.c" />
+    <ClCompile Include="C015042김연준p2.c" />
     <ClCompile Include="typedef사용하기.c" />
     <ClCompile Include="기출1_10_숫자거꾸로함수.c" />
     <ClCompile Include="기출1_11_대문자소문자로.c" />
@@ -152,6 +154,8 @@
     <ClCompile Include="기출1_21(8)_출력값비교3.c" />
     <ClCompile Include="기출1_22%289%29-24%2811%29_출력값비교4.c" />
     <ClCompile Include="기출1_25(12)_argv문제문제.c" />
+    <ClCompile Include="기출1_29(16)_transpose문제.c" />
+    <ClCompile Include="기출1_30(17)_공란없애기.c" />
     <ClCompile Include="기출1_4_그냥코드확인만.c" />
     <ClCompile Include="기출1_5_재귀factorial.c" />
     <ClCompile Include="기출1_6_출력값예측문제.c" />
@@ -193,6 +197,7 @@
     <ClCompile Include="기출1_7_recursive함수.c" />
     <ClCompile Include="기출1_8_연산순서.c" />
     <ClCompile Include="기출1_9_조건문.c" />
+    <ClCompile Include="기출2_12(1)_구조체활용.c" />
     <ClCompile Include="기출2_1_monthday문제.c" />
     <ClCompile Include="기출5_1_다음은여기.c" />
     <ClCompile Include="기출문제1.c" />
@@ -215,6 +220,7 @@
     <ClCompile Include="문자열합치기3ver.c" />
     <ClCompile Include="cmd로argc_argv.c" />
     <ClCompile Include="간단한지역전역상수응용.c" />
+    <ClCompile Include="빈칸용.c" />
     <ClCompile Include="시간계산포인터로.c" />
     <ClCompile Include="시간계산프로그래밍.c" />
     <ClCompile Include="파일복사프로그램.c" />

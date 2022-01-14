@@ -18,7 +18,7 @@ int main13_3(int argc, char* argv[]) //13_3 // **argv로 해도 무방하셔
 
 	int i; FILE* ip, * op; char ch;
 	printf("argc = %d\n", argc);
-	for (i = 0; i < argc; ++i) printf("argv[%d] = %s\n", i, argv[i]);
+	for (i = 0; i < argc; ++i) printf("argv[%d] = %s\n", i, argv[i]); // i번 째 문자열
 
 	ip = fopen(argv[1], "r");
 	op = fopen(argv[2], "w");

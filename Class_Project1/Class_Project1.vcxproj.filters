@@ -70,6 +70,9 @@
     <Filter Include="소스 파일\Day_14">
       <UniqueIdentifier>{82a2e617-b088-4b66-9512-7e0c5a847e05}</UniqueIdentifier>
     </Filter>
+    <Filter Include="소스 파일\기말고사">
+      <UniqueIdentifier>{2b21a152-c0ba-4751-a029-50604352d9a7}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="국영수성적처리.c">
@@ -416,6 +419,24 @@
     </ClCompile>
     <ClCompile Include="기출1_25(12)_argv문제문제.c">
       <Filter>소스 파일\기출1</Filter>
+    </ClCompile>
+    <ClCompile Include="기출1_29(16)_transpose문제.c">
+      <Filter>소스 파일\기출1</Filter>
+    </ClCompile>
+    <ClCompile Include="기출1_30(17)_공란없애기.c">
+      <Filter>소스 파일\기출1</Filter>
+    </ClCompile>
+    <ClCompile Include="기출2_12(1)_구조체활용.c">
+      <Filter>소스 파일\기출2</Filter>
+    </ClCompile>
+    <ClCompile Include="C015042김연준p2.c">
+      <Filter>소스 파일\기말고사</Filter>
+    </ClCompile>
+    <ClCompile Include="C015042.c">
+      <Filter>소스 파일\기말고사</Filter>
+    </ClCompile>
+    <ClCompile Include="빈칸용.c">
+      <Filter>소스 파일\기말고사</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>
