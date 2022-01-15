@@ -140,6 +140,7 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClCompile Include="C015042.c" />
+    <ClCompile Include="C015042_원본.c" />
     <ClCompile Include="C015042김연준p2.c" />
     <ClCompile Include="typedef사용하기.c" />
     <ClCompile Include="기출1_10_숫자거꾸로함수.c" />

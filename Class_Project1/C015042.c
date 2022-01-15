@@ -1,48 +1,80 @@
 #include <stdio.h>
 #include <stdlib.h>
 
-// C:\\Users\\User-Pc\\Desktop\\
+// C:\\Users\\82106\\source\\repo\\Codes-for-Practice2\\JJJ\\
+// Class_Project1
+
+// 1. 동적 메모리 할당해서 그 메모리로 fscanf 해야함.
+// 2. <명령prompt>로 exe 실행하여 파일 스캔해야함.
+// 3. 프로그램으로 사람 인원 세는 알고리즘 구현
+// 4. 최고점이 100점으로 계산
+// 5. 출력에는 성적 총점 도 나와야함. 
+// <과제> 90점 --> 기말 점수 20점
+// <최종 점수> 65+ --> A+ / 60+ --> A0 / 55+ --> B+ / 50+ --> B0 / 45+ --> C+ / 40+ --> C0 / 35+ --> D+ / 30+ --> D0 / 나머지 F
 
 struct StudentScore {
-	char index[20]; // 순번
+	char index[20]; // 순번 // 이거 진짜 2차원 배열 필요할 수도...
 	char Studentnumber[20];
 	char name[20];
-	int ScoreP1, ScoreP2, ScoreP3, ScoreAssignment, Absentnumber;
+	char ScoreP1[20], ScoreP2[20], ScoreP3[20], ScoreAssignment[20], Absentnumber[20]; // 여기도 다 int로 바꿔야 할 수도...
 };
 
 typedef struct StudentScore Score;
 typedef struct StudentScore* ScoreP;
 
-void main()
+int How_many_Stu(char words[])
+{
+	int StudentCount = 0;
+	if (words[0] == 'a')
+	{
+		StudentCount = StudentCount + 1; // 난 모르겠다~~~ 다음에 하자.
+	}
+	return StudentCount;
+}
+
+void mystrlink(char Baselink[], char Filename[])
+{
+	int i, j;
+	for (i = 0; Baselink[i]; i++); 
+	for (j = 0; Baselink[i] = Filename[j]; j++, i++);
+}
+
+void ScanContents(ScoreP ScanStudent, char Filename[])
 {
 	FILE* ip;
-	ip = fopen("C:\\Users\\User-Pc\\Desktop\\C2022Winput.txt", "r");
-	char word[100];
-	int StudentCount = 0; // 학생 수 계산.
+	char Baselink[200] = "C:\\Users\\82106\\source\\repo\\Codes-for-Practice2\\JJJ\\";
+	char words[100]; // 이거 맞나...? 
+	mystrlink(Baselink, Filename);
+	printf("%s\n", Baselink); // Baselink 뒤에 Filename 붙었는지 확인 용도.
 
+	ip = fopen(Baselink, "r");
 
 	if (!ip)
 	{
-		printf("파일열기 오류"); return;
+		printf("파일읽기오류\n"); return;
 	}
 
-	for (; fscanf(ip, "%s", word) > 0;) // 학생 수 계산.
+	for (; fscanf(ip, "%s", words) > 0;) // -1 에러났음 / 0이면 0개읽음
 	{
-		if (word[0] == 'a')
-		{
-			StudentCount = StudentCount + 1;
-		}
+		printf("%d\n", How_many_Stu(words)); // 아 이거 아닌거 같은데;;
+		int i;
+		for (i = 0; words[i]; i++)
+			printf("%s\n", words);
 	}
+
+	printf("%d\n", How_many_Stu(words)); // 학생수 확인 용도
+}
+
+void main(int argc, char *argv[])
+{
+	ScoreP ScanStudent; // 학생들 스캔하는 용도.
+	ScanStudent = (ScoreP)malloc(200);
+	// printf("%s\n", argv[1]); // argv[1] 확인 용도
+
+	char* Filename = argv[1];
+	ScanContents(ScanStudent, Filename);
 
 	printf("C015042김연준\n");
-	printf("총 학생 %d명\n", StudentCount);
-	printf("최종성적  총점  순번  학번    이름  과제실제(과제환산) 시험총점실제(시험환산) -결석횟수\n");
-	printf("C+     5.76     a1 B513923 김정원 hw 0(0.0) 20( 9.8) -8 정원 hw 0(0.0) 20( 9.8) -8\n");
-	printf("재수A0 114.61   a2 B615 재수A0 114.61 a2 B615923 * 이시형 hw 90(20.0) 155(75.6) - 2 시형 hw 90(20.0) 155(75.6) - 2\n");
-	printf("A0     100.98   a3 B735923 송병윤 hw 90(20.0) 125(61.0) 0 병윤 hw 90(20.0) 125(61.0) 0\n");
-	printf("A0     98.04    a4 B911912 나세강 hw 90(20.0) 120(58.5) - 1 세강 hw 90(20.0) 120(58.5) - 1\n");
-	printf("재수B0 40.45    a5 B935 재수B0 40.45 a5 B935912 * 당우준 hw 82(17.2) 45(22.0) - 1 우준 hw 82(17.2) 45(22.0) - 1\n");
-	printf("A+     119.10   a6 B936912 박윤경 hw 84(19.1) 284(100.0) 0 \n");
 
-	fclose(ip);
+	free(ScanStudent);
 }

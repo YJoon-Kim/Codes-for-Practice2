@@ -438,5 +438,8 @@
     <ClCompile Include="빈칸용.c">
       <Filter>소스 파일\기말고사</Filter>
     </ClCompile>
+    <ClCompile Include="C015042_원본.c">
+      <Filter>소스 파일\기말고사</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
