@@ -65,7 +65,7 @@ void ScanContents(ScoreP ScanStudent, char Filename[])
 	printf("%d\n", How_many_Stu(words)); // 학생수 확인 용도
 }
 
-void main(int argc, char *argv[])
+void mainS_1(int argc, char *argv[])
 {
 	ScoreP ScanStudent; // 학생들 스캔하는 용도.
 	ScanStudent = (ScoreP)malloc(200);

@@ -13,7 +13,7 @@ struct StudentScore {
 typedef struct StudentScore Score;
 typedef struct StudentScore* ScoreP;
 
-void mainS_1()
+void mainSO_1()
 {
 	FILE* ip;
 	ip = fopen("C:\\Users\\User-Pc\\Desktop\\C2022Winput.txt", "r");
