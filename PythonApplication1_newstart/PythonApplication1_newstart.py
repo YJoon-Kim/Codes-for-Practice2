@@ -1,6 +1,12 @@
-a = 1
-b = 2
-c = a + b
+total = int(input())
+T = int(input())
 
-print(a+b)
-print() # for empty space
+price = 0
+for i in range(T):
+	a,b = map(int, input().split())
+	price += (a*b)
+
+if total == price:
+	print('Yes')
+else:
+	print('No')
