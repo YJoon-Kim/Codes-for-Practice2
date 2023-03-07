@@ -42,7 +42,7 @@
     <ClCompile Include="10811번.c">
       <Filter>소스 파일\백준%28왕초보/jaehoo1%29\브론즈</Filter>
     </ClCompile>
-    <ClCompile Include="array test.c">
+    <ClCompile Include="1546번.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
   </ItemGroup>

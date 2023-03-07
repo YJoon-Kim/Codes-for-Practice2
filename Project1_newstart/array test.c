@@ -8,7 +8,7 @@ int main_Testtt()
 	int jun;
 	scanf("%d", &num);
 	int a = num;
-	int array[i];
+	int array[];
 	for (i = 0; i < num; i++)
 	{
 		scanf("%d", &jun);
