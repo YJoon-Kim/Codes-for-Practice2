@@ -16,13 +16,34 @@
     <Filter Include="소스 파일\백준%28왕초보/jaehoo1%29">
       <UniqueIdentifier>{327a0d0b-7979-4a48-b028-db4de7cedc85}</UniqueIdentifier>
     </Filter>
+    <Filter Include="소스 파일\백준%28왕초보/jaehoo1%29\브론즈">
+      <UniqueIdentifier>{bd46b36f-535d-4aeb-ab40-34cca137337e}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\백준%28왕초보/jaehoo1%29\실버">
+      <UniqueIdentifier>{ddfd9781-89f8-4055-b5c9-6b1c5f486eb6}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
+    <ClCompile Include="5597번.c">
+      <Filter>소스 파일\백준%28왕초보/jaehoo1%29\브론즈</Filter>
+    </ClCompile>
+    <ClCompile Include="공 바꾸기.c">
+      <Filter>소스 파일\백준%28왕초보/jaehoo1%29\브론즈</Filter>
+    </ClCompile>
     <ClCompile Include="두수비교하기.c">
-      <Filter>소스 파일\백준%28왕초보/jaehoo1%29</Filter>
+      <Filter>소스 파일\백준%28왕초보/jaehoo1%29\브론즈</Filter>
     </ClCompile>
     <ClCompile Include="터렛.c">
-      <Filter>소스 파일\백준%28왕초보/jaehoo1%29</Filter>
+      <Filter>소스 파일\백준%28왕초보/jaehoo1%29\실버</Filter>
+    </ClCompile>
+    <ClCompile Include="3052번.c">
+      <Filter>소스 파일\백준%28왕초보/jaehoo1%29\브론즈</Filter>
+    </ClCompile>
+    <ClCompile Include="10811번.c">
+      <Filter>소스 파일\백준%28왕초보/jaehoo1%29\브론즈</Filter>
+    </ClCompile>
+    <ClCompile Include="array test.c">
+      <Filter>소스 파일</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>
