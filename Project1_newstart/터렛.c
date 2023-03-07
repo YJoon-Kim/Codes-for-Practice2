@@ -1,7 +1,7 @@
 #include <stdio.h>
 #include <math.h>
 
-int main()
+int main_TR()
 {
 	int Num; // ½Ãµµ È½¼ö
 	scanf("%d", &Num);

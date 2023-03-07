@@ -1,12 +1,13 @@
-total = int(input())
-T = int(input())
+list1 = []
+a = 0
+b = 0
 
-price = 0
-for i in range(T):
-	a,b = map(int, input().split())
-	price += (a*b)
+for i in range(9):
+	s = int(input())
+	list1.append(s)
+	if s > a:
+		a = s
+		b = i+1
 
-if total == price:
-	print('Yes')
-else:
-	print('No')
+print(a)
+print(b)

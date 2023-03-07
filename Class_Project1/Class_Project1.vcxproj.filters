@@ -441,5 +441,8 @@
     <ClCompile Include="C015042_원본.c">
       <Filter>소스 파일\기말고사</Filter>
     </ClCompile>
+    <ClCompile Include="Just_practice.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
