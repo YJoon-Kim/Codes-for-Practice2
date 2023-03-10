@@ -22,6 +22,9 @@
     <Filter Include="소스 파일\백준%28왕초보/jaehoo1%29\실버">
       <UniqueIdentifier>{ddfd9781-89f8-4055-b5c9-6b1c5f486eb6}</UniqueIdentifier>
     </Filter>
+    <Filter Include="소스 파일\백준%28왕초보/jaehoo1%29\골드">
+      <UniqueIdentifier>{09db6330-7c71-4d35-8717-7a7bc805899d}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="5597번.c">
@@ -52,6 +55,12 @@
       <Filter>소스 파일\백준%28왕초보/jaehoo1%29\브론즈</Filter>
     </ClCompile>
     <ClCompile Include="9086번.c">
+      <Filter>소스 파일\백준%28왕초보/jaehoo1%29\브론즈</Filter>
+    </ClCompile>
+    <ClCompile Include="2447번.c">
+      <Filter>소스 파일\백준%28왕초보/jaehoo1%29\골드</Filter>
+    </ClCompile>
+    <ClCompile Include="10872번.c">
       <Filter>소스 파일\백준%28왕초보/jaehoo1%29\브론즈</Filter>
     </ClCompile>
   </ItemGroup>

@@ -20,8 +20,10 @@
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="10811번.c" />
+    <ClCompile Include="10872번.c" />
     <ClCompile Include="11654번.c" />
     <ClCompile Include="1546번.c" />
+    <ClCompile Include="2447번.c" />
     <ClCompile Include="2743번.c" />
     <ClCompile Include="3052번.c" />
     <ClCompile Include="5597번.c" />

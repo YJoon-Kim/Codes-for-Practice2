@@ -1,7 +1,7 @@
 #include <stdio.h>
 // ¹®ÀÚ¿­
 
-int main()
+int main_9086()
 {
 	int T;
 	scanf("%d", &T);
@@ -9,11 +9,15 @@ int main()
 	{
 		char arr1[1000];
 		scanf("%s", arr1);
-		for (int j = 0;arr1[j]!=-52;j++)
+		printf("%c", arr1[0]);
+		int count = 0;
+		for (int j = 1; arr1[j-1] != 0; j++,count++)
 		{
-			printf("%c\n", arr1[j]);
+			if (arr1[j] == 0)
+			{
+				printf("%c\n", arr1[j - 1]);
+			}
 		}
-
 	}
 	return 0;
 }
