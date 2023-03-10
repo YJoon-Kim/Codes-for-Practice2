@@ -43,7 +43,16 @@
       <Filter>소스 파일\백준%28왕초보/jaehoo1%29\브론즈</Filter>
     </ClCompile>
     <ClCompile Include="1546번.c">
-      <Filter>소스 파일</Filter>
+      <Filter>소스 파일\백준%28왕초보/jaehoo1%29\브론즈</Filter>
+    </ClCompile>
+    <ClCompile Include="11654번.c">
+      <Filter>소스 파일\백준%28왕초보/jaehoo1%29\브론즈</Filter>
+    </ClCompile>
+    <ClCompile Include="2743번.c">
+      <Filter>소스 파일\백준%28왕초보/jaehoo1%29\브론즈</Filter>
+    </ClCompile>
+    <ClCompile Include="9086번.c">
+      <Filter>소스 파일\백준%28왕초보/jaehoo1%29\브론즈</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>
