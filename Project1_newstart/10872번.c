@@ -3,7 +3,7 @@
 
 int a = 1;
 
-int fact_10872(int N)
+int fact(int N)
 {
 	if (N == 0)
 	{
