@@ -9,9 +9,9 @@ int main()
 	{
 		char arr1[1000];
 		scanf("%s", arr1);
-		for (int j = 0;;j++)
+		for (int j = 0;arr1[j]!=-52;j++)
 		{
-			printf("%d", arr1[j]);
+			printf("%c\n", arr1[j]);
 		}
 
 	}
