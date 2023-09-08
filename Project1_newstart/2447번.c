@@ -1,5 +1,5 @@
 #include <stdio.h>
-// º°Âï±â - 10
+// ï¿½ï¿½ï¿½ï¿½ï¿? - 10
 
 void star(int i, int j, int num)
 {

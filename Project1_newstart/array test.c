@@ -1,6 +1,6 @@
 #include <stdio.h>
 
-int main_Testtt()
+int main()
 {
 	int num;
 	int i=0;
@@ -8,7 +8,7 @@ int main_Testtt()
 	int jun;
 	scanf("%d", &num);
 	int a = num;
-	int array[];
+	int array[100];
 	for (i = 0; i < num; i++)
 	{
 		scanf("%d", &jun);
